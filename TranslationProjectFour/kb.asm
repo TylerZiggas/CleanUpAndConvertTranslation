@@ -1,0 +1,6 @@
+LOAD x
+STORE _V0
+WRITE _V0
+STOP
+x 5
+_V0 0

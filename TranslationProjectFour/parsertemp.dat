@@ -1,0 +1,7 @@
+
+declare x = 5 ;
+program
+start
+talk x ;
+stop
+
